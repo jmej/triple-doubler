@@ -1,0 +1,350 @@
+(footprint "Transformer TA-30-1 telephone 600ohm"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "NF-Transformer, 1:1, ETAL P1200,http://www.etalgroup.com/sites/default/files/products/P1200_April_2005.pdf")
+	(tags "NF-Transformer 1to1 ETAL P1200 ")
+	(property "Reference" "REF**"
+		(at 5.842 -9.756 0)
+		(layer "F.SilkS")
+		(uuid "e5a8582c-0081-4c5e-8a70-b25c7740f9ad")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Transformer TA-30-1 telephone 600ohm"
+		(at 6.392 10.544 0)
+		(layer "F.Fab")
+		(uuid "1a3e5be2-163f-414d-9593-bcb05ac040ac")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 1.016 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4ea0f67c-1788-4855-8340-73c48eac83f4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 1.016 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6ac506b0-28d8-4395-bbde-29ff9c6257a9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 1.016 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8bfd85b5-3131-4e61-a04b-8288bd3f303b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -4.88 -8.806)
+		(end 14.892 -8.806)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8f2a6d2b-09ab-4739-9613-aeff1a88461f")
+	)
+	(fp_line
+		(start -4.88 9.294)
+		(end -4.88 -8.806)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2fc0d6bc-248c-4d1b-9d73-762862444f83")
+	)
+	(fp_line
+		(start 14.892 -8.806)
+		(end 14.892 9.294)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1e55b88e-ac74-4649-9c55-57a7f9135dc8")
+	)
+	(fp_line
+		(start 14.892 9.294)
+		(end -4.88 9.294)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c7695bee-9023-47bd-b078-bed2291bff47")
+	)
+	(fp_line
+		(start -5.08 -8.996)
+		(end -5.08 9.504)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5d07ccaa-1317-4551-b9b7-a3a8dabe7929")
+	)
+	(fp_line
+		(start -5.08 -8.996)
+		(end 15.092 -8.996)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1bf76cd5-0778-411d-90e7-a58b9752118d")
+	)
+	(fp_line
+		(start 15.092 9.504)
+		(end -5.08 9.504)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "32182eae-8265-4a8f-b219-bd81d70685cb")
+	)
+	(fp_line
+		(start 15.092 9.504)
+		(end 15.092 -8.996)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e4d49dc1-13ea-40ab-976d-31ee681981e9")
+	)
+	(fp_line
+		(start -4.83 -8.746)
+		(end -4.83 9.254)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fdc33d97-aa8e-4787-ba60-17586915e5a9")
+	)
+	(fp_line
+		(start -3.158 9.254)
+		(end 14.842 9.254)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a550a6b6-9d2e-48e0-9f34-53ac6c444657")
+	)
+	(fp_line
+		(start 3.48 -3.656)
+		(end 4.02 -4.136)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1eef98a9-20b4-402f-9de8-d1649f26554d")
+	)
+	(fp_line
+		(start 3.64 -2.616)
+		(end 4.26 -2.636)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1829ad66-db28-46c2-8daf-a598981e379c")
+	)
+	(fp_line
+		(start 4.02 -4.136)
+		(end 4.02 -2.626)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "dc4fcd43-9e08-4464-8173-f8d2eab65d7c")
+	)
+	(fp_line
+		(start 5.08 -3.556)
+		(end 5.03 -3.536)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ffddb586-c04d-4d51-97c3-a6c7981a5cc1")
+	)
+	(fp_line
+		(start 5.15 -2.756)
+		(end 5.07 -2.756)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "342a75c2-5ae8-49f8-b298-16289f28e862")
+	)
+	(fp_line
+		(start 5.72 -3.716)
+		(end 6.22 -4.136)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2ddb138a-ddd5-4768-83f6-d7f6f949ea26")
+	)
+	(fp_line
+		(start 5.87 -2.686)
+		(end 6.51 -2.686)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "27d9fdef-17a6-4a6e-88ff-1006b0a2bda0")
+	)
+	(fp_line
+		(start 6.22 -4.136)
+		(end 6.22 -2.686)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3310b65c-4cd2-46a4-8287-238e9e551c8f")
+	)
+	(fp_line
+		(start 10.372 0.45)
+		(end 11.362 0.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "098e48a9-ef6e-4583-83c9-65ab0022b6dc")
+	)
+	(fp_line
+		(start 14.842 -8.746)
+		(end -3.158 -8.746)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c3ac41cf-a2c7-4a3d-90b0-1d99cc37b59e")
+	)
+	(fp_line
+		(start 14.842 9.254)
+		(end 14.842 -8.746)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5692df0e-24d6-4b73-ac39-e6c44c38d90b")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 5.08 7.112 0)
+		(layer "F.Fab")
+		(uuid "9a2476ed-223f-400b-9a55-ab2c97837f20")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 -2.54)
+		(size 2 2)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1717ebc7-bae8-4a2f-b0c6-9cac2941a6d4")
+	)
+	(pad "2" thru_hole circle
+		(at 0 0)
+		(size 2 2)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "2102eeed-0faf-446a-82ae-a76e23f7ed9e")
+	)
+	(pad "3" thru_hole circle
+		(at 0 2.54)
+		(size 2 2)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8818ad58-a09d-4681-b54b-b1576d44cba8")
+	)
+	(pad "4" thru_hole circle
+		(at 10.668 2.54)
+		(size 2 2)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "888bbbb3-4030-4fbf-b0e1-9ab75f86b075")
+	)
+	(pad "5" thru_hole circle
+		(at 10.668 0)
+		(size 2 2)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "a349e987-8857-49cc-a9c6-05063cfa606b")
+	)
+	(pad "6" thru_hole circle
+		(at 10.668 -2.54)
+		(size 2 2)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "fe95042e-a053-44d5-948d-223827067f78")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_NF_ETAL_1-1_P1200.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
